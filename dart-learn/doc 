@@ -1,0 +1,15 @@
+Dart documento
+==============
+
+[001] iniciando um projeto  Dart:
+
+    $ dart create dart-proj
+
+    $ cd dart-proj
+
+    ..$ dart run 
+      Building package executable... 
+      Built dart_proj:dart_proj.
+      Hello world: 42!
+    ..$  
+
